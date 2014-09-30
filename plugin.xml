@@ -189,16 +189,7 @@
         <header-file src="src/ios/Airship/External/UA_Reachability.h"  />
 
         <!-- UI Resource files -->
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/UrbanAirship/Settings.bundle" />
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/UrbanAirship/de.lproj" />
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/UrbanAirship/en.lproj" />
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/UrbanAirship/es.lproj" />
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/UrbanAirship/fr.lproj" />
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/UrbanAirship/it.lproj" />
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/UrbanAirship/ja.lproj" />
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/UrbanAirship/pt.lproj" />
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/UrbanAirship/zh-Hans.lproj" />
-        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/UrbanAirship/zh-Hant.lproj" />
+        <resource-file src="src/ios/Airship/UI/Default/Common/Resources/UrbanAirshipSDK.bundle" />
 
         <source-file src="src/ios/Airship/libUAirship-5.0.1.a" framework="true"/>
 
